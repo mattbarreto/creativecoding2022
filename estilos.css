@@ -1,0 +1,78 @@
+body {
+    background: #01021A;
+}
+
+p {
+    color: #DB0049;
+}
+
+* {
+    font-family: 'Courier New', Courier, monospace;
+}
+
+a {
+    color: #DB0049;
+    text-decoration: none; 
+}
+
+.section--top {
+    height: 100vh;
+}
+
+.img--logo {
+    width: 100vw;;
+    height: auto;
+}
+
+/* .img--creative-coding-2022 {
+    top: 0;
+} */
+
+/* .drawingCanvas {
+    position: absolute;
+}  */
+    
+.section--about {
+    padding-top: 60px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+.about__text {
+    padding-bottom: 40px;
+}
+
+.border {
+    border: 1px solid black;
+}
+
+.about__syllabus {
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+.img__galeria {
+    width: 100%;
+    height: auto;
+}
+
+.artwork__item {
+    padding-left: 10%;
+    padding-right: 10%;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.section--contact {
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+.contact__data {
+    display: flex;
+}
+
+.contact__column {
+    width: 50%;
+
+}
