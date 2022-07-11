@@ -17,6 +17,8 @@ a {
 
 .section--top {
     height: 100vh;
+    background-image: url("./imagenes/page/creative_coding.gif");
+    background-size: cover;
 }
 
 .img--logo {
@@ -28,9 +30,9 @@ a {
     top: 0;
 } */
 
-/* .drawingCanvas {
+ .drawingCanvas {
     position: absolute;
-}  */
+}
     
 .section--about {
     padding-top: 60px;
