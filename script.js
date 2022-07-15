@@ -9,8 +9,8 @@ const img_mov = document.createElement('img');
 const img_mov2 = document.createElement('img');  
 
 // background.src = './imagenes/page/logo.jpg';
-img_mov.src = 'imagenes/img_mov/flower.jpg';
-img_mov2.src = 'imagenes/img_mov/flower2.jpg';
+img_mov.src = 'imagenes/img_mov/pincel_1.png';
+img_mov2.src = 'imagenes/img_mov/pincel_2.png';
 
 let pincel = img_mov;
 
