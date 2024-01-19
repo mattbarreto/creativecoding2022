@@ -2,6 +2,11 @@
 
 Welcome to the GitHub Repository for Project 1 of Creative Coding 2022 Edition! This repository showcases an example of the first practical assignment in the Creative Coding course, applying concepts learned in JavaScript, HTML, CSS, GitHub, and GitHub Pages.
 
+<div align="center">
+  <img src="https://github.com/creativecoding2022/creativecoding2022.github.io/blob/master/coding2022.gif?raw=true" alt="Creative Coding 2022 Edition" style="width: 100%;">
+</div>
+
+
 #### Project Description
 
 - **Interactive Header:** An interactive header serving as a drawing board for users to create.
